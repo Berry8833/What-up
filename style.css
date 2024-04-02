@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header h1 {
+    background-color: rgb(55, 196, 243);
+    color: bisque;
+    text-align: center;
+    font-size: xx-large;
+}
+p {
+    background-color: khaki;
+    color: darkred;
+}
